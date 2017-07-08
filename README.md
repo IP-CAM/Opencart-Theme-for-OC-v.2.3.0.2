@@ -7,4 +7,4 @@ go to folder:
 catalog\view\theme\default - edit the default folder to your new them name
 
 go to file:
-catalog\view\theme\default\template\common\header.tpl - find replace in file "default" to your new them
+catalog\view\theme\default\template\common\header.tpl - find and replace in file "default" to your new them
